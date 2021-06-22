@@ -1,0 +1,10 @@
+﻿Model,value
+RF - readmission,0.5738372
+LR - readmission,0.5661822
+DT - readmission ,0.5676841
+RF - emergency room ,0.6309845
+LR - emergency room ,0.5803598
+DT - emergency room ,0.5536982
+RF - adherence      ,0.6576471
+LR - adherence     ,0.5697285
+DT - adherence      ,0.5022851
